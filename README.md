@@ -41,6 +41,6 @@ Our implementation is based on [ifl-tpp](https://github.com/shchur/ifl-tpp/tree/
 
 ## Notes
 
-- If you are using MLE, i.e. logarithmic score (LogS), please read [this comment](https://github.com/shchur/ifl-tpp/blob/master/README.md#mistakes-in-the-old-version).
+- If you are using MLE, i.e. logarithmic score (LogS), since our code is based on [ifl-tpp](https://github.com/shchur/ifl-tpp/tree/original-code/code), please read [this comment](https://github.com/shchur/ifl-tpp/blob/master/README.md#mistakes-in-the-old-version).
 - B
 
