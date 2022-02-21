@@ -42,5 +42,6 @@ Our implementation is based on [ifl-tpp](https://github.com/shchur/ifl-tpp/tree/
 ## Notes
 
 - If you are using MLE, i.e. logarithmic score (LogS), and since our code is based on [ifl-tpp](https://github.com/shchur/ifl-tpp/tree/original-code/code), please read [this comment](https://github.com/shchur/ifl-tpp/blob/master/README.md#mistakes-in-the-old-version).
-- B
-
+- By default, we compute the CRPS by numerically approximating the integral for faster computations (e.g., RQS_EXP-crps_qapprox_100 or RQS_EXP-crps_qapprox_200)
+- Due to numerical issues, 
+- Numerical errors can happen when computing the closed-form expression of the CRPS. We adapted the code to deal with some of them. It is higly likely that we did not encounter all of them.
