@@ -14,7 +14,7 @@ Please cite our paper if you use the code in your own work
 }
 ```
 
-## Requirements
+## Requirements (not up-to-date, see code)
 
 ```
 numpy
