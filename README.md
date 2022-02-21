@@ -14,6 +14,14 @@ Please cite our paper if you use the code in your own work
 }
 ```
 
+## Requirements
+
+```
+numpy
+pytorch
+scipy
+```
+
 ## Usage
 
 ```
