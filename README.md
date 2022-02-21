@@ -33,3 +33,13 @@ You can try the following command as an example:
 cd qf-tpp/code
 python -u train.py  --dataset_name=taxi --method=RQS_EXP-crps_qapprox  --config=5 --max_epochs=100
 ```
+
+
+## Acknowledgments
+
+Our implementation is based on [ifl-tpp](https://github.com/shchur/ifl-tpp/tree/original-code/code) and [nsf](https://github.com/bayesiains/nsf). We thank the authors for sharing their code.
+
+## Notes
+
+- A
+- B
