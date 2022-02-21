@@ -27,9 +27,9 @@ cd qf-tpp/code
 python train.py -h
 ```
 
-You can try the following example:
+You can try the following command as an example:
 
 ```
-cd code
+cd qf-tpp/code
 python -u train.py  --dataset_name=taxi --method=RQS_EXP-crps_qapprox  --config=5 --max_epochs=100
 ```
