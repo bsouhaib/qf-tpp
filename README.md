@@ -1,6 +1,5 @@
 # Learning Quantile Functions for Temporal Point Processes with Recurrent Neural Splines
 
-<<<<<<< HEAD
 Python/Pytorch implementation of the paper "Learning Quantile Functions for Temporal Point Processes with Recurrent Neural Splines" (@ AISTATS 2022)
 
 ## Cite
@@ -30,6 +29,3 @@ You can try the following example:
 cd code
 python -u train.py  --dataset_name=taxi --method=RQS_EXP-crps_qapprox  --config=5 --max_epochs=100
 ```
-=======
-Python/Pytorch implementation of the paper "Learning Quantile Functions for Temporal Point Processes with Recurrent Neural Splines", Souhaib Ben Taieb.
->>>>>>> fbdd9d9aff9e8dce3a1be31b857df11e3e19c451
