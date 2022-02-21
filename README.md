@@ -1,6 +1,6 @@
 # Learning Quantile Functions for Temporal Point Processes with Recurrent Neural Splines
 
-Python/Pytorch implementation of the paper "Learning Quantile Functions for Temporal Point Processes with Recurrent Neural Splines" (@ AISTATS 2022)
+Python/Pytorch implementation of the paper "Learning Quantile Functions for Temporal Point Processes with Recurrent Neural Splines", Souhaib Ben Taieb (@ AISTATS 2022)
 
 ## Cite
 Please cite our paper if you use the code in your own work
