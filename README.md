@@ -16,10 +16,14 @@ Please cite our paper if you use the code in your own work
 
 ## Usage
 
+```
+git clone https://github.com/bsouhaib/qf-tpp/
+```
+
 You can see the list of arguments with the following command:
 
 ```
-cd code
+cd qf-tpp/code
 python train.py -h
 ```
 
